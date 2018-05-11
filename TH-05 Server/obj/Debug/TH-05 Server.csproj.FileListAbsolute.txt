@@ -1,0 +1,9 @@
+D:\TH-05 Server\TH-05 Server\bin\Debug\TH-05 Server.exe.config
+D:\TH-05 Server\TH-05 Server\bin\Debug\TH-05 Server.exe
+D:\TH-05 Server\TH-05 Server\bin\Debug\TH-05 Server.pdb
+D:\TH-05 Server\TH-05 Server\obj\Debug\TH-05 Server.csprojResolveAssemblyReference.cache
+D:\TH-05 Server\TH-05 Server\obj\Debug\TH_05_Server.Form1.resources
+D:\TH-05 Server\TH-05 Server\obj\Debug\TH_05_Server.Properties.Resources.resources
+D:\TH-05 Server\TH-05 Server\obj\Debug\TH-05 Server.csproj.GenerateResource.Cache
+D:\TH-05 Server\TH-05 Server\obj\Debug\TH-05 Server.exe
+D:\TH-05 Server\TH-05 Server\obj\Debug\TH-05 Server.pdb

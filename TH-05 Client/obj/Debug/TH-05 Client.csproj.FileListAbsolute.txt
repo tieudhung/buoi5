@@ -1,0 +1,8 @@
+D:\TH-05 Server\TH-05 Client\bin\Debug\TH-05 Client.exe.config
+D:\TH-05 Server\TH-05 Client\bin\Debug\TH-05 Client.exe
+D:\TH-05 Server\TH-05 Client\bin\Debug\TH-05 Client.pdb
+D:\TH-05 Server\TH-05 Client\obj\Debug\TH_05_Client.Form1.resources
+D:\TH-05 Server\TH-05 Client\obj\Debug\TH_05_Client.Properties.Resources.resources
+D:\TH-05 Server\TH-05 Client\obj\Debug\TH-05 Client.csproj.GenerateResource.Cache
+D:\TH-05 Server\TH-05 Client\obj\Debug\TH-05 Client.exe
+D:\TH-05 Server\TH-05 Client\obj\Debug\TH-05 Client.pdb
